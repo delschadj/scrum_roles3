@@ -25,7 +25,7 @@ const Roles = () => {
               <FcCheckmark className='roles__details-icon' />
               <div>
                 <h4>Say what needs to get done</h4>
-                <small className='text-light'>Text here</small>
+                <small className='text-light'>Give developers clear goals</small>
               </div>
             </article>
 
@@ -33,7 +33,7 @@ const Roles = () => {
               <FcCheckmark className='roles__details-icon' />
               <div>
                 <h4>Challenge the team </h4>
-                <small className='text-light'>Text here</small>
+                <small className='text-light'>Encourage the team to find innovative ways</small>
               </div>
             </article>
 
@@ -41,7 +41,7 @@ const Roles = () => {
               <FcCheckmark className='roles__details-icon' />
               <div>
                 <h4>Build a High-performance team</h4>
-                <small className='text-light'>Text here</small>
+                <small className='text-light'>Invest in building a high performing team</small>
               </div>
             </article>
 
@@ -49,7 +49,7 @@ const Roles = () => {
               <FcCheckmark className='roles__details-icon' />
               <div>
                 <h4>Practice Business-value driven thinking</h4>
-                <small className='text-light'>Text here</small>
+                <small className='text-light'>What features are currently hot on the market to satisfy customer needs</small>
               </div>
             </article>
 
@@ -67,7 +67,7 @@ const Roles = () => {
               <FcCancel className='roles__details-icon' />
               <div>
                 <h4>Focus on Short-term deliveries only</h4>
-                <small className='text-light'>Text here</small>
+                <small className='text-light'>Missing long term direction</small>
               </div>
             </article>
 
@@ -75,7 +75,7 @@ const Roles = () => {
               <FcCancel className='roles__details-icon' />
               <div>
                 <h4>Panic Before anything happens</h4>
-                <small className='text-light'>Text here</small>
+                <small className='text-light'>Functioning as the anchor for the team</small>
               </div>
             </article>
 
@@ -83,7 +83,7 @@ const Roles = () => {
               <FcCancel className='roles__details-icon' />
               <div>
                 <h4>Say how to do it or how much it will take</h4>
-                <small className='text-light'>Text here</small>
+                <small className='text-light'>Communicate the goal. Not specific tasks</small>
               </div>
             </article>
 
@@ -91,7 +91,7 @@ const Roles = () => {
               <FcCancel className='roles__details-icon' />
               <div>
                 <h4>Stick to the original approach </h4>
-                <small className='text-light'>Text here</small>
+                <small className='text-light'>Changes in plans are inevitable</small>
               </div>
             </article>
 

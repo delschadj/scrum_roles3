@@ -27,27 +27,26 @@ const About = () => {
             <article className="about__card">
               <FaAward className='about__icon' />
               <h5>Smart decision maker</h5>
-              <small>Text here</small>
             </article>
 
             <article className="about__card">
               <FiUsers className='about__icon' />
               <h5>Efficient Listener</h5>
-              <small>Text here</small>
             </article>
 
             <article className="about__card">
               <MdCancel className='about__icon' />
               <h5>Can say, NO</h5>
-              <small>Text here</small>
             </article>
 
           </div>
 
           <p>
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+          Product Owners are the face of the project and one of the most important professionals in developing and launching a product in a company. They are also responsible for the success of the product and have the authority to decide what needs to be developed and when.
+
+          Generally, the Product Owner role is filled by a business-oriented person, as they are expected to understand the market, the product, the business, and the constraints involved. A product owner has a clear vision for the product and works closely with internal stakeholders, customers, and the development team. The main role of a product owner is to communicate between stakeholders and developers and help the team develop a product that adds value for customers.
           </p>
-          <a href="contact" className="btn btn-primary">My Roles</a>
+          <a href="#roles" className="btn btn-primary">My Roles</a>
 
         </div>
 

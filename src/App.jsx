@@ -29,8 +29,7 @@ const App = () => {
   return (
           
     <Router>
-      <>
-          
+      <>   
         <Switch>
             <Route path='/scrummaster'>
                 <Header_ScrumMaster/>

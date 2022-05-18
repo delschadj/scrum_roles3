@@ -10,19 +10,19 @@ const data = [
     image: IMG1,
     title: 'Saying ‘Yes’ to everything',
     
-    demo: 'https://www.linkedin.com/pulse/five-common-pitfalls-scrum-masters-how-avoid-them-marco-mulder'
+    demo: 'https://medium.com/serious-scrum/successful-product-owners-master-the-art-of-saying-no-to-distractions-17d8e78b4ec'
   },
   {
     id: 2,
     image: IMG2,
     title: 'Detailed planning',
-    demo: 'https://https://www.linkedin.com/pulse/five-common-pitfalls-scrum-masters-how-avoid-them-marco-mulder.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://medium.com/serious-scrum/7-characteristics-of-weak-product-management-eb0a3ca15d1b'
   },
   {
     id: 3,
     image: IMG3,
     title: 'Doesn’t experiment',
-    demo: 'https://https://www.linkedin.com/pulse/five-common-pitfalls-scrum-masters-how-avoid-them-marco-mulder.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    demo: 'https://www.businessinsider.de/wirtschaft/kodak-nokia-blackberry-commodore-grosse-unternehmen-scheitern-r5/'
   },
 ]
 

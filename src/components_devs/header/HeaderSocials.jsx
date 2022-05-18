@@ -1,14 +1,11 @@
 import React from 'react'
-import {BsLinkedin} from "react-icons/bs"
-import {FaGithub} from "react-icons/fa"
-import {FiDribbble} from "react-icons/fi"
 
 const HeaderSocials = () => {
   return (
     <div className='header__socials'>
-        <a href="https://de.linkedin.com/" target="_blank"> <BsLinkedin/> </a>
-        <a href="https://github.com/" target="_blank"> <FaGithub/> </a>
-        <a href="https://dribbble.com/" target="_blank"> <FiDribbble/> </a>
+        <a href="/productowner"> Product Owner </a>
+        <a href="/scrummaster"> Scrum Master </a>
+        <a href="/devs"> Developer </a>
     </div>
   )
 }
